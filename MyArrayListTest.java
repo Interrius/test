@@ -92,6 +92,7 @@ class MyArrayListTest {
 
     @Test
     void testRemove() {
+        list.remove();
         assertEquals(true, false);
     }
 
